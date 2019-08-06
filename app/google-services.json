@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659976558141",
+    "firebase_url": "https://prodalangnew.firebaseio.com",
+    "project_id": "prodalangnew",
+    "storage_bucket": "prodalangnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659976558141:android:546418272a695489",
+        "android_client_info": {
+          "package_name": "com.prodalang1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659976558141-lifdfj600og1ogmn42l6fvgeggbg3khh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prodalang1",
+            "certificate_hash": "236597a0d582969b5f4dd828a06bdb2e38217503"
+          }
+        },
+        {
+          "client_id": "659976558141-6fe04ntfkrbhe6nk9jnj8dkr1sr4mpoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgLyYwY8MXtf8HodBV1LqPoPBxtwHuJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659976558141-6fe04ntfkrbhe6nk9jnj8dkr1sr4mpoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
